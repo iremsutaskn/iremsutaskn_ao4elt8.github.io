@@ -9,9 +9,6 @@
 
 
 
-https://github.com/user-attachments/assets/d4850697-28c8-49b1-b5d6-996eebbb08b2
-
-
 
 ### Dynamic NCPA
 
