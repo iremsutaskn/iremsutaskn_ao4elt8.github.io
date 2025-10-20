@@ -3,7 +3,9 @@
 ## Perfect Coronagraph
 ### Static NCPA
 ### Dynamic NCPA
-[![Watch the video](https://raw.githubusercontent.com/iremsutaskn/iremsutaskn_ao4elt8.github.io/main/vids/coro_dynamic.mp4)](https://raw.githubusercontent.com/iremsutaskn/iremsutaskn_ao4elt8.github.io/main/vids/coro_dynamic.mp4)
+https://github.com/user-attachments/assets/325356cc-509e-4c5f-86cc-be54c7b75933
+
+
 
 ## No Coronagraph
 ### Static NCPA
