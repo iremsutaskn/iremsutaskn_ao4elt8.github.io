@@ -7,7 +7,7 @@
   <source src="https://github.com/iremsutaskn/iremsutaskn_ao4elt8.github.io/raw/main/vids/coro_static.mp4" type="video/mp4">
 </video>
 
-
+<img src="https://github.com/iremsutaskn/iremsutaskn_ao4elt8.github.io/raw/main/img/contrast_perfect_static.pdf" style="display: block; margin: auto;" />
 
 
 ### Dynamic NCPA
